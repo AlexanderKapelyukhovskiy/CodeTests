@@ -1,6 +1,6 @@
 ﻿namespace CodeTest.Czech.Solarwinds
 {
-    //Codility
+    //Codility2
     public class Problem2
     {
         public int Solution(int[] A, int X)
