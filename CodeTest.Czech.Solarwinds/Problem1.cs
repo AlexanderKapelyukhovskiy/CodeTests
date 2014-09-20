@@ -3,9 +3,9 @@ using System.Collections.Generic;
 
 namespace CodeTest.Czech.Solarwinds
 {
-    public class Problem
+    //Codility
+    public class Problem1
     {
-
         public class Tree
         {
             public Tree l;
@@ -42,13 +42,6 @@ namespace CodeTest.Czech.Solarwinds
                 }
                 return count;
             }
-        }
-
-
-
-        public bool Resolve()
-        {
-            return false;
         }
     }
 }

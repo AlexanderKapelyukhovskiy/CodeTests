@@ -2,6 +2,7 @@
 
 namespace CodeTest.Poland.Pgs
 {
+    //Codility
     public class Problem1
     {
         public int Solution(string s)
