@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Common\ThreeAndFiveMultiplierTests.cs" />
     <Compile Include="Czech.Solarwinds\SolarwindsProblemTests.cs" />
     <Compile Include="London.Intechnica\IntechnicaProblemTests.cs" />
     <Compile Include="Poland.Pgs\PgsProblemTests.cs" />
